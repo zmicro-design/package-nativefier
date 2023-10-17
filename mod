@@ -1,5 +1,5 @@
 NAME=nativefier
-VERSION=v0.0.1
+VERSION=v1.0.0
 MODULE=package
 DESCRIPTION="Make any web page a desktop application"
 HOMEPAGE="https://github.com/nativefier/nativefier"
